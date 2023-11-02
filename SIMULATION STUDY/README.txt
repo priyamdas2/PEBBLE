@@ -1,2 +1,2 @@
---> Run "Simulation_study.R". Change (n,p) in line 25,26 as required.
+Readme files are provided within each scenario specific folders.
  
