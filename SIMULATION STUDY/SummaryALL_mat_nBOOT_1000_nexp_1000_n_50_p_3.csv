@@ -1,6 +1,0 @@
-"","H_mid_cvrg","H_up_cvrg","H_low_cvrg","min_id_wide","min_id_wide_sd","min_id_mid_cvrg","min_id_up_cvrg","min_id_low_cvrg","max_id_wide","max_id_wide_sd","max_id_mid_cvrg","max_id_up_cvrg","max_id_low_cvrg","avg_wide","avg_wide_sd","avg_mid_cvrg","avg_up_cvrg","avg_low_cvrg"
-"PEBBLE",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"Normal",0.001,0.001,0.001,NA,NA,0.001,0.001,0.001,NA,NA,0.001,0.001,0.001,NA,NA,0.001,0.001,0.001
-"Moulton",0.001,0.001,0.001,NA,NA,0.001,0.001,0.001,NA,NA,0.001,0.001,0.001,NA,NA,0.001,0.001,0.001
-"Claeskens 1",0.001,0.001,0.001,NA,NA,0.001,0.001,0.001,NA,NA,0.001,0.001,0.001,NA,NA,0.001,0.001,0.001
-"Claeskens 2",0.001,0.001,0.001,NA,NA,0.001,0.001,0.001,NA,NA,0.001,0.001,0.001,NA,NA,0.001,0.001,0.001
